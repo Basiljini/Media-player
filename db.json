@@ -1,0 +1,109 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "zinda banda",
+      "url": "https://i.ytimg.com/vi/AQEc4BwX6dk/maxresdefault.jpg",
+      "embbedLink": "https://www.youtube.com/embed/AQEc4BwX6dk"
+    },
+    {
+      "id": "2",
+      "caption": "Naa Ready",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTerNKZwtDJdpQoDWGjMj_HtOZz6bDUtBZbYlpLOAlmhTOFykyC92bYAL-TGxZM-Dz_QRY&usqp=CAU",
+      "embbedLink": "https://www.youtube.com/embed/szvt1vD0Uug"
+    },
+    {
+      "id": "3",
+      "caption": "Jailer-Hukum",
+      "url": "https://i.ytimg.com/vi/FF6zam7FbRU/maxresdefault.jpg",
+      "embbedLink": "https://www.youtube.com/embed/1F3hm6MfR1k"
+    },
+    {
+      "id": "4",
+      "caption": "Mersal",
+      "url": "https://onlookersmedia.in/wp-content/uploads/2017/10/mersal-final.jpg",
+      "embbedLink": "https://www.youtube.com/embed/xsbLtHql4g8"
+    },
+    {
+      "id": "5",
+      "caption": "Vaathi Coming",
+      "url": "https://images.indianexpress.com/2020/01/master-third-look-1200.jpg",
+      "embbedLink": "https://www.youtube.com/embed/vxzfsBDx590"
+    },
+    {
+      "id": "7",
+      "caption": "KGF-Toofan",
+      "url": "https://assets.thehansindia.com/h-upload/2022/04/13/1286724-kgf-chapter-2.jpg",
+      "embbedLink": "https://www.youtube.com/embed/zckfOsqhJ0s"
+    },
+    {
+      "id": "6",
+      "caption": "MI-7",
+      "url": "https://thumbnails.cbsig.net/_x/w1200/CBS_Production_Entertainment_VMS/2023/05/18/2208127043535/MIDR1_US_2023_SA_16x9_1920x1080_NB_2215190_1920x1080.jpg",
+      "embbedLink": "https://www.youtube.com/embed/zNcNxhDNScE"
+    },
+    {
+      "id": "8",
+      "caption": "Leo-Trailer",
+      "url": "https://www.hindustantimes.com/ht-img/img/2023/06/22/1600x900/Leo_First_Look_1687403718085_1687403733149.jpg",
+      "embbedLink": "https://www.youtube.com/embed/Po3jStA673E"
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "Powerpack",
+      "allVideos": [
+        {
+          "id": "3",
+          "caption": "Jailer-Hukum",
+          "url": "https://i.ytimg.com/vi/FF6zam7FbRU/maxresdefault.jpg",
+          "embbedLink": "https://www.youtube.com/embed/1F3hm6MfR1k"
+        },
+        {
+          "id": "2",
+          "caption": "Naa Ready",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTerNKZwtDJdpQoDWGjMj_HtOZz6bDUtBZbYlpLOAlmhTOFykyC92bYAL-TGxZM-Dz_QRY&usqp=CAU",
+          "embbedLink": "https://www.youtube.com/embed/szvt1vD0Uug"
+        },
+        {
+          "id": "7",
+          "caption": "KGF-Toofan",
+          "url": "https://assets.thehansindia.com/h-upload/2022/04/13/1286724-kgf-chapter-2.jpg",
+          "embbedLink": "https://www.youtube.com/embed/zckfOsqhJ0s"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "Romantic",
+      "allVideos": [],
+      "id": 2
+    },
+    {
+      "categoryName": "Trailers",
+      "allVideos": [
+        {
+          "id": "8",
+          "caption": "Leo-Trailer",
+          "url": "https://www.hindustantimes.com/ht-img/img/2023/06/22/1600x900/Leo_First_Look_1687403718085_1687403733149.jpg",
+          "embbedLink": "https://www.youtube.com/embed/Po3jStA673E"
+        },
+        {
+          "id": "6",
+          "caption": "MI-7",
+          "url": "https://thumbnails.cbsig.net/_x/w1200/CBS_Production_Entertainment_VMS/2023/05/18/2208127043535/MIDR1_US_2023_SA_16x9_1920x1080_NB_2215190_1920x1080.jpg",
+          "embbedLink": "https://www.youtube.com/embed/zNcNxhDNScE"
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "Mersal",
+      "embbedLink": "https://www.youtube.com/embed/xsbLtHql4g8",
+      "timeStamp": "10/16/2023, 10:58:16 AM",
+      "id": 1
+    }
+  ]
+}
